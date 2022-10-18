@@ -169,6 +169,14 @@ main .coluna section ul li strong{
     display: inline-block;
 }
 
+.img-pdf{
+    max-width: 1.1rem;
+    max-height: 1.1rem;
+    width: auto;
+    height: auto;
+    font-size: 1.1rem;
+}
+
 /* EXTRAS */
 .ativar-dark{
     width: 50px;
