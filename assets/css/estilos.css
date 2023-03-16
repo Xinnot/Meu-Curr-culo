@@ -178,6 +178,15 @@ main .coluna section ul li strong{
     margin-bottom: -0.2rem;
 }
 
+.img-specs{
+    max-width: 1.1rem;
+    max-height: 1.1rem;
+    width: auto;
+    height: auto;
+    margin-bottom: -0.2rem;
+    margin-right: 5px;
+}
+
 /* EXTRAS */
 .ativar-dark{
     width: 50px;
