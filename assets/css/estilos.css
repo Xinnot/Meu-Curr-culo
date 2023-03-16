@@ -184,6 +184,7 @@ main .coluna section ul li strong{
     width: auto;
     height: auto;
     margin-bottom: -0.2rem;
+    /* margin-right: 5px; por algum motivo as imagens voltam ao tamanho normal na versão github*/
 }
 
 /* EXTRAS */
