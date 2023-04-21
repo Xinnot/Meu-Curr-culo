@@ -133,8 +133,6 @@ footer nav .rede-sociais li a img{
 }
 
 
-
-
 /* PÁGINA INICIAL */
 
 main .coluna{
@@ -186,6 +184,7 @@ main .coluna section ul li strong{
     margin-bottom: -0.2rem;
     /* margin-right: 5px; por algum motivo as imagens voltam ao tamanho normal na versão github*/
 }
+
 
 /* EXTRAS */
 .ativar-dark{
@@ -254,6 +253,30 @@ label span{
     background-color: var(--corBackgroundSecundaria);
 }
 
+/*Botão Voltar topo*/
+
+#voltar-topo{
+    border-width: 1px;
+    overflow: hidden;
+    position: fixed;
+    right: 10px;
+    left: auto;
+    bottom: 5px;
+    font-size: large;
+    border-style: solid;
+    border-color: transparent;
+    background-color: #000;
+    color: #fff;
+    opacity: .5;
+    border-radius: 4px;
+}
+
+#voltar-topo:hover{
+    background-color: #212121;
+    border-radius: 4px;
+}
+
+
 /* @MEDIA */
 @media only screen and (min-width: 768px){
     .linha{
@@ -301,6 +324,11 @@ label span{
         margin: 0 14px;
         text-align: center;
         display: initial;
+    }
+
+    #voltar-topo{
+        width: 34px;
+        height: 34px;
     }
 }
 
