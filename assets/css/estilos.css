@@ -252,6 +252,10 @@ label span{
 .ativar-dark:checked ~ .dark-mode main{
     background-color: var(--corBackgroundSecundaria);
 }
+.ativar-dark:checked ~ #voltar-topo{
+    background-color: #fff;
+    color: #000;
+}
 
 /*Botão Voltar topo*/
 
