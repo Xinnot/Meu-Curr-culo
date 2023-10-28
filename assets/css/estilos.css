@@ -189,7 +189,7 @@ main .coluna section ul li strong{
 .qr-code{
     text-align: center;
     margin-top: 1.5%;
-    margin-bottom: -7px;
+    margin-bottom: 7px;
 }
 
 .qr-code img{
