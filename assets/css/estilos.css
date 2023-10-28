@@ -185,6 +185,21 @@ main .coluna section ul li strong{
     /* margin-right: 5px; por algum motivo as imagens voltam ao tamanho normal na versão github*/
 }
 
+/*QR-Code*/
+.qr-code{
+    text-align: center;
+    margin-top: -1%;
+    margin-bottom: 15px;
+}
+
+.qr-code img{
+    width: 256px;
+    height: 256px;
+}
+
+.qr-code p{
+    font-size: small;
+}
 
 /* EXTRAS */
 .ativar-dark{
