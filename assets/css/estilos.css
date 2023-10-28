@@ -188,8 +188,8 @@ main .coluna section ul li strong{
 /*QR-Code*/
 .qr-code{
     text-align: center;
-    margin-top: -1%;
-    margin-bottom: 15px;
+    margin-top: 1.5%;
+    margin-bottom: -7px;
 }
 
 .qr-code img{
